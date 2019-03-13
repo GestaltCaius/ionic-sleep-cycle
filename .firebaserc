@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "sleep-cycle",
+    "default": "sleep-cycle"
+  }
+}
